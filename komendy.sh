@@ -42,7 +42,7 @@ git rebase bugFix side
 git rebase side another
 git rebase another main
 git branch bugWork main^^2^
-$ git checkout one
+git checkout one
 git cherry-pick C4 C3 C2
 git checkout two
 git cherry-pick C5 C4 C3 C2
